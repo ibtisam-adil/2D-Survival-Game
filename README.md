@@ -105,3 +105,4 @@ This project is a 2D game written in C++ using the Raylib library. The game feat
 1. Clone the repository:
    ```bash
    git clone https://github.com/ibtisam-adil/2D-Survival-Game.git
+   
